@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+}
+
+.map{
+	width: 50%;
+	height: 100%;
+
+}
+
+#map1{
+	float: left;
+}
